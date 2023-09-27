@@ -1,0 +1,54 @@
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.bg-container {
+    background:whitesmoke;
+    padding: 22px;
+    border-radius: 10px;
+    margin: 23px;
+    text-align: center;
+}
+.heading{
+    color: red;
+}
+
+h1 {
+    color: #333333;
+}
+
+.container {
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 15px;
+}
+
+.btn {
+    padding: 13px 22px;
+    background-color: #333633;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+.paragraph {
+    
+    margin-top: 25px;
+}
+
+.p-container {
+    margin-top: 12px;
+}
+.error-msg {
+    color: red;
+    margin: 12px 0;
+}
+
+
